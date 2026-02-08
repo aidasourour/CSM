@@ -8,7 +8,19 @@
     margin: 20px 0;
     font-size: 40px;
 }
-
+.home-link {
+    text-align: center;
+    margin-top: 10px;
+    font-size: 30px;
+    color: black;
+    font-family: 'Arial', sans-serif;
+    box-shadow: #7ED0F9 2px 2px 2px 2px;
+    box-sizing:content-box;
+    padding: 10px 10px 10px 10px;
+    display: inline-block;
+    margin-left: 90px;
+    margin-top: -50px;
+}
 nav ul.nav {
     display: flex;
     list-style: none;
