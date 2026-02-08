@@ -1,0 +1,19 @@
+header {
+    width: 100%;
+}
+
+header img {
+    width: 100%;
+    height: auto;
+    display: block;
+}
+
+.page-title {
+    text-align: center;
+    color: #7ED0F9;
+    font-family: 'Arial Black', sans-serif;
+    font-style: italic;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
+    margin: 20px 0;
+    font-size: 40px;
+}
