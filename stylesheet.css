@@ -7,7 +7,7 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     margin: 20px 0;
     font-size: 40px;
-    margin-top: -20px;
+    margin-top: -10px;
 }
 .home-link {
     text-align: center;
@@ -37,8 +37,11 @@ nav ul.nav a {
     padding: 20px 250px;
     font-size: 30px;
     color: black;
-    font-family: 'Arial', sans-serif;
-}nav {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style:normal;
+}
+
+nav {
     background-color: #bbb9b9;
     overflow: hidden;
     display: flex;
