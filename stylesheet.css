@@ -7,19 +7,17 @@
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);
     margin: 20px 0;
     font-size: 40px;
+    margin-top: -20px;
 }
 .home-link {
     text-align: center;
-    margin-top: 10px;
     font-size: 30px;
-    color: black;
+    color: #7ED0F9;
+    margin: 20px 0;
     font-family: 'Arial', sans-serif;
-    box-shadow: #7ED0F9 2px 2px 2px 2px;
-    box-sizing:content-box;
-    padding: 10px 10px 10px 10px;
     display: inline-block;
     margin-left: 90px;
-    margin-top: -50px;
+    margin-top: -30px;
 }
 nav ul.nav {
     display: flex;
@@ -36,7 +34,10 @@ nav ul.nav li {
 
 nav ul.nav a {
     text-decoration: none;
-    padding: 10px 15px;
+    padding: 20px 250px;
+    font-size: 30px;
+    color: black;
+    font-family: 'Arial', sans-serif;
 }nav {
     background-color: #bbb9b9;
     overflow: hidden;
