@@ -17,3 +17,27 @@ header img {
     margin: 20px 0;
     font-size: 40px;
 }
+
+nav ul.nav {
+    display: flex;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    justify-content: center;
+    gap: 20px;
+}
+
+nav ul.nav li {
+    display: inline;
+}
+
+nav ul.nav a {
+    text-decoration: none;
+    padding: 10px 15px;
+}nav {
+    background-color: #bbb9b9;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
