@@ -79,3 +79,14 @@ nav {
     padding: 20px 40px;
     line-height: 100px;
 }
+.contact-text {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+    transform: translateY(-50%);
+    color: black;
+    font-size: 40px;
+    font-family: Verdana, Tahoma, sans-serif;
+    padding: 20px 40px;
+    line-height: 1500px;
+}
